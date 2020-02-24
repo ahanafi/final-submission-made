@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">My Favorite App</string>
+    <string name="tab_movie">Movie</string>
+    <string name="tab_tv_show">Tv Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_name">Movie Name</string>
+    <string name="release" translatable="false">YYYY-MM-DD</string>
+    <string name="description">Overview text</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="movie_label_text">List of Movies</string>
+    <string name="tv_show_label_text">List of Tv Show</string>
+    <string name="title_of_movie">Title of Movie</string>
+    <string name="example_release_date" translatable="false">YYYY-MM-DD</string>
+    <string name="rating_star_image" translatable="false">10/10</string>
+    <string name="text_length_move" translatable="false">120 min</string>
+    <string name="overview_text">Overview</string>
+    <string name="btn_add_favorite">Add to Favorite</string>
+    <string name="remove">Remove</string>
+    <string name="failed_add_to_favorite">Failed add item to favorite</string>
+    <string name="success_added_to_favorite">Item was successfully added to favorite!</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure want to delete this?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite_movie">List of Favorite Movies</string>
+    <string name="favorite_tv_show">List of Favorite Tv Show</string>
+    <string name="success_deleted_movie">The item success deleted from favorite</string>
+    <string name="failed_deleted_movie">Failed to remove item from favorite</string>
+    <string name="exist_movie_in_favorite">The item is exists in favorite!</string>
+    <string name="added_to_favorite">Added to Favorite</string>
+    <string name="no_favorite_tv_show">No favorite Tv Show</string>
+    <string name="no_favorite_movie">No favorite movie</string>
+    <string name="title_activity_favorite">Favorite Items</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_item">Search Item</string>
+    <string name="favorite_item">Favorite Item</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+
+    <!-- Sync Preferences -->
+    <string name="reminder_setting">Reminder setting</string>
+    <string name="release_reminder">Release reminder</string>
+    <string name="release_reminder_summary">Get new release movie or tv shows</string>
+    <string name="daily_reminder_summary">Reminder everydary</string>
+    <string name="daily_reminder">Daily reminder</string>
+    <string name="language_setting">Language Setting</string>
+    <string name="change_language">Change Language</string>
+    <string name="type_keyword">Type keyword here..</string>
+    <string name="nothing_fav_item">Nothing favorite item</string>
+</resources>

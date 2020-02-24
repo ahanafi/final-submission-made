@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ahanafi.id.myfavoritemovieapp.activities.MainActivity"
+    android:icon="@drawable/menu_icon"
+    >
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/search_item"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:icon="@drawable/ic_search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        >
+    </item>
+    <item
+        android:id="@+id/action_favorite"
+        android:title="@string/favorite_item"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/love"
+        >
+    </item>
+    <item
+        android:id="@+id/action_change_language"
+        android:title="@string/settings"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_settings_white"
+        >
+    </item>
+</menu>
